@@ -5,7 +5,7 @@ A Python-based automated pipeline to streamline data collection, cleaning, explo
 
 ## Project Structure
 
-
+```bash
 data_analytics_app/
 ├── app.py                 # Main 
 ├── scripts/
@@ -21,6 +21,7 @@ data_analytics_app/
 ├── requirements.txt       # Required Python packages
 └── README.md              # Project overview & usage instructions
 
+```
 
 ## 🚀 Key Features
 
