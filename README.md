@@ -6,7 +6,7 @@ A Python-based automated pipeline to streamline data collection, cleaning, explo
 ## Project Structure
 
 ```bash
-data_analytics_app/
+Data_Analytics_toolkit/
 ├── app.py                 # Main 
 ├── scripts/
 │   ├── get_data.py        # Fetch raw data (downloads, APIs, etc.)
