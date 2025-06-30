@@ -4,6 +4,20 @@
 
 ## Project Structure
 
+data_analytics_app/
+├── app.py                 # Main 
+├── scripts/
+│   ├── get_data.py        # Fetch raw data (downloads, APIs, etc.)
+│   ├── clean_data.py      # Clean and preprocess data
+│   ├── eda_analysis.py    # Perform exploratory data analysis
+│   ├── visualizations.py  # Generate charts and graphs
+│   └── export_results.py  # Save processed data and outputs
+├── data/
+│   └── example.csv        # Sample input dataset
+├── utils/
+│   └── helpers.py         # Utility functions
+├── requirements.txt       # Required Python packages
+└── README.md              # Project overview & usage instructions
 
 
 
