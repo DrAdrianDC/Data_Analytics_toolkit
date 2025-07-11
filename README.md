@@ -22,8 +22,6 @@ Data_Analytics_toolkit/
 │   └── export_results.py  # Save processed data and outputs
 ├── data/
 │   └── example.csv        # Sample input dataset
-├── utils/
-│   └── helpers.py         # Utility functions
 ├── requirements.txt       # Required Python packages
 └── README.md              # Project overview & usage instructions
 
