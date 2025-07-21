@@ -29,9 +29,9 @@ Data_Analytics_toolkit/
 
 ## 🚀 Key Features
 
--    📥 Data Collection: Import from CSV, APIs, or databases
+-    📥 Data Collection: Import from CSV, etc
 
--    🧹 Data Cleaning: Handle missing values, type casting, and formatting
+-    🧹 Data Cleaning: Handle missing values, duplicates, type casting, and formatting
 
 -    📊 Exploratory Data Analysis (EDA): Summarize stats, distributions, and correlations
 
