@@ -13,16 +13,18 @@ A Python-based automated pipeline to streamline data collection, cleaning, explo
 
 ```bash
 Data_Analytics_toolkit/
-├── app.py                 # Main 
+├── app.py                 # Main
+│
 ├── scripts/
 │   ├── __init__.py        # (optional)
 │   ├── get_data.py        # Fetch raw data (downloads, APIs, etc.)
 │   ├── clean_data.py      # Clean and preprocess data
 │   ├── eda_analysis.py    # Perform exploratory data analysis
 │   ├── visualizations.py  # Generate charts and graphs
-│   └── export_results.py  # Save processed data and outputs
+│
 ├── data/
 │   └── example.csv        # Sample input dataset
+│
 ├── requirements.txt       # Required Python packages
 └── README.md              # Project overview & usage instructions
 
