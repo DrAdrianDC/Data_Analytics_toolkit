@@ -15,6 +15,7 @@ A Python-based automated pipeline to streamline data collection, cleaning, explo
 Data_Analytics_toolkit/
 ├── app.py                 # Main 
 ├── scripts/
+│   ├── __init__.py        # (optional)
 │   ├── get_data.py        # Fetch raw data (downloads, APIs, etc.)
 │   ├── clean_data.py      # Clean and preprocess data
 │   ├── eda_analysis.py    # Perform exploratory data analysis
