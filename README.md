@@ -12,7 +12,7 @@ A Python-based automated pipeline to streamline data collection, cleaning, explo
 
 ```bash
 Data_Analytics_toolkit/
-├── app.py                 # Main
+├── data_analytics_toolkit.py          # Main
 │
 ├── scripts/
 │   ├── __init__.py        # (optional)
