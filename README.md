@@ -2,7 +2,7 @@
 
 
 ## Overview
-A Python-based automated pipeline to streamline data collection, cleaning, exploratory analysis, visualization, and results export—structured as modular scripts for flexibility and maintainability.
+An interactive Python pipeline (including **Streamlit application**) for fast, efficient, and no-code exploratory data analysis (EDA). This toolkit simplifies dataset inspection, summary statistics, data profiling, and basic visualizations — all in one place.
 
 
 ![word-tree-figure](https://github.com/user-attachments/assets/0490e561-c4bb-479f-aea0-aa6b53121c0e)
