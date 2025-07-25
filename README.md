@@ -50,10 +50,17 @@ To run this app locally:
 ```bash
 git clone https://github.com/DrAdrianDC/Data_Analytics_toolkit.git
 cd Data_Analytics_toolkit
+```
 
 Install the required dependencies:
-
+```bash
 pip install -r requirements.txt
+```
+
+Then launch the app with:
+```bash
+streamlit run data_analytics_toolkit.py
+```
 
 
 
