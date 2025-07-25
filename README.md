@@ -31,16 +31,26 @@ Data_Analytics_toolkit/
 
 ## 🚀 Key Features
 
--    📥 Data Collection: Import from CSV, etc
+📥 **Data Collection**  
+Import datasets from CSV, Excel, or TXT formats via an intuitive drag-and-drop interface.
 
--    🧹 Data Cleaning: Handle missing values, duplicates, type casting, and formatting
+🧹 **Data Cleaning**  
+Handle missing values, drop duplicates, convert data types, and reformat columns — all without code.
 
--    📊 Exploratory Data Analysis (EDA): Summarize stats, distributions, and correlations
+📊 **Exploratory Data Analysis (EDA)**  
+Choose between:
+- **Basic EDA**: Summary statistics, data types, null value counts
+- **Full EDA Report**: Auto-generated report using `pandas_profiling` / `ydata_profiling`
 
--   📈 Visualization Engine: Generate charts with Seaborn, Matplotlib, or Plotly
+📈 **Visualization Engine**  
+Generate charts using Seaborn, Matplotlib, and Plotly, including:
+- Histograms
+- Boxplots
+- Pie charts
+- Correlation heatmaps
 
--    💾 Result Export: Save cleaned datasets, cleaning report, and EDA report.
-
+💾 **Result Export**  
+Download the cleaned dataset as a CSV file. Export EDA profiles and cleaning insights for reporting or further analysis.
 
 
 ## 📦 Installation
