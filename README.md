@@ -51,5 +51,9 @@ To run this app locally:
 git clone https://github.com/DrAdrianDC/Data_Analytics_toolkit.git
 cd Data_Analytics_toolkit
 
+Install the required dependencies:
+
+pip install -r requirements.txt
+
 
 
