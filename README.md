@@ -32,7 +32,7 @@ Data_Analytics_toolkit/
 ## 🚀 Key Features
 
 📥 **Data Collection**  
-Import datasets from CSV, Excel, or TXT formats via an intuitive drag-and-drop interface.
+Import datasets from CSV, Excel, JSON formats via an intuitive drag-and-drop interface.
 
 🧹 **Data Cleaning**  
 Handle missing values, drop duplicates, convert data types, and reformat columns — all without code.
@@ -50,7 +50,7 @@ Generate charts using Seaborn, Matplotlib, and Plotly, including:
 - Correlation heatmaps
 
 💾 **Result Export**  
-Download the cleaned dataset as a CSV file. Export EDA profiles and cleaning insights for reporting or further analysis.
+Download the cleaned dataset, cleaning report and EDA report files. 
 
 
 ## 📦 Installation
