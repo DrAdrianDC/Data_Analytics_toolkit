@@ -39,4 +39,4 @@ Data_Analytics_toolkit/
 
 -   📈 Visualization Engine: Generate charts with Seaborn, Matplotlib, or Plotly
 
--    💾 Result Export: Save cleaned datasets, cleaning report, etc
+-    💾 Result Export: Save cleaned datasets, cleaning report, and EDA report.
