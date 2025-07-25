@@ -40,3 +40,16 @@ Data_Analytics_toolkit/
 -   📈 Visualization Engine: Generate charts with Seaborn, Matplotlib, or Plotly
 
 -    💾 Result Export: Save cleaned datasets, cleaning report, and EDA report.
+
+
+
+## 📦 Installation
+
+To run this app locally:
+
+```bash
+git clone https://github.com/DrAdrianDC/Data_Analytics_toolkit.git
+cd Data_Analytics_toolkit
+
+
+
