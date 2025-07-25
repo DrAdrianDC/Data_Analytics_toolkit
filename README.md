@@ -64,13 +64,10 @@ streamlit run data_analytics_toolkit.py
 
 ## 💡 Use Cases
 
-    - Quickly explore a dataset for trends and outliers
-
-    - Share EDA reports with colleagues without writing code
-
-    - Perform basic preprocessing on raw data
-
-    - Teaching/learning data science concepts interactively
+-  Quickly explore a dataset for trends and outliers
+- Share EDA reports with colleagues without writing code
+- Perform basic preprocessing on raw data
+- Teaching/learning data science concepts interactively
 
 
 
