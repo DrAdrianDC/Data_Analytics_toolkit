@@ -1,12 +1,9 @@
 # Data_Analytics_toolkit
 
+![word-tree-figure](https://github.com/user-attachments/assets/0490e561-c4bb-479f-aea0-aa6b53121c0e)
 
 ## Overview
 An interactive Python pipeline (including **Streamlit application**) for fast, efficient, and no-code exploratory data analysis (EDA). This toolkit simplifies dataset inspection, data cleaning, summary statistics, EDA, and basic visualizations — all in one place.
-
-
-![word-tree-figure](https://github.com/user-attachments/assets/0490e561-c4bb-479f-aea0-aa6b53121c0e)
-
 
 ## Project Structure
 
