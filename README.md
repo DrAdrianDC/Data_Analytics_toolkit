@@ -4,6 +4,15 @@
 ## Overview
 An interactive Python pipeline (including **Streamlit application**) for fast, efficient, and no-code data cleaning, exploratory data analysis (EDA). This toolkit simplifies dataset inspection, data cleaning, summary statistics, EDA, and basic visualizations — all in one place.
 
+
+### 💡 Use Cases
+
+-  Quickly explore a dataset for trends and outliers
+- Share EDA reports with colleagues without writing code
+- Perform basic preprocessing on raw data
+- Teaching/learning data science concepts interactively
+
+
 ## Project Structure
 
 ```bash
@@ -48,15 +57,6 @@ Generate charts using Seaborn, Matplotlib, and Plotly, including:
 💾 **Result Export**  
 Download the cleaned dataset, cleaning report and EDA report files. 
 
-
-
-
-## 💡 Use Cases
-
--  Quickly explore a dataset for trends and outliers
-- Share EDA reports with colleagues without writing code
-- Perform basic preprocessing on raw data
-- Teaching/learning data science concepts interactively
 
 
 
