@@ -49,6 +49,17 @@ Generate charts using Seaborn, Matplotlib, and Plotly, including:
 Download the cleaned dataset, cleaning report and EDA report files. 
 
 
+
+
+## 💡 Use Cases
+
+-  Quickly explore a dataset for trends and outliers
+- Share EDA reports with colleagues without writing code
+- Perform basic preprocessing on raw data
+- Teaching/learning data science concepts interactively
+
+
+
 ## 📦 Installation
 
 To run this app locally:
@@ -67,13 +78,5 @@ Then launch the app with:
 ```bash
 streamlit run data_analytics_toolkit.py
 ```
-
-## 💡 Use Cases
-
--  Quickly explore a dataset for trends and outliers
-- Share EDA reports with colleagues without writing code
-- Perform basic preprocessing on raw data
-- Teaching/learning data science concepts interactively
-
 
 
